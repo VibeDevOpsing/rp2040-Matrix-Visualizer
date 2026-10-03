@@ -1,0 +1,5 @@
+# CircuitPython Environment Configuration Example
+# Copy this file to settings.toml if needed for your environment.
+#
+# CIRCUITPY_WIFI_SSID = "Your_SSID"
+# CIRCUITPY_WIFI_PASSWORD = "Your_Password"
